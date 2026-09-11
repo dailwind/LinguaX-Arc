@@ -55,7 +55,7 @@ LinguaX Arc addresses three specific gaps:
 Download the latest `.apk` from the [Releases](https://github.com/dailwind/LinguaX-Arc/releases) page and install it on any Android 7.0+ device. You may need to allow installation from unknown sources.
 
 ### From Google Play
-Available on the Google Play Store under **Dailwind Studio**.
+Available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.aistudio.linguaxarc.lhvqkp) under **Dailwind Studio**.
 
 ---
 
