@@ -1,6 +1,6 @@
 # LinguaX Arc
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/1365721388.svg)](https://doi.org/10.5281/zenodo.22706552)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Android%207.0%2B-green.svg)]()
 [![Version](https://img.shields.io/badge/version-5.0-orange.svg)]()
@@ -55,100 +55,10 @@ LinguaX Arc addresses three specific gaps:
 Download the latest `.apk` from the [Releases](https://github.com/dailwind/LinguaX-Arc/releases) page and install it on any Android 7.0+ device. You may need to allow installation from unknown sources.
 
 ### From Google Play
-Available on the [Google Play Store](https://play.google.com/store/apps/details?id=com.aistudio.linguaxarc.lhvqkp) under **Dailwind Studio**.
+Available on the Google Play Store under **Dailwind Studio**.
 
 ---
 
 ## Architecture
 
 LinguaX Arc is built as a [Capacitor](https://capacitorjs.com/) application wrapping a self-contained web layer:
-
-```
-┌─────────────────────────────────────────┐
-│  Android Shell (Capacitor / WebView)    │
-│  ┌───────────────────────────────────┐  │
-│  │  Input Layer                      │  │
-│  │  .txt  ·  pdf.js  ·  mammoth.js   │  │
-│  └───────────────┬───────────────────┘  │
-│  ┌───────────────▼───────────────────┐  │
-│  │  Tokeniser & Corpus Index         │  │
-│  └───────────────┬───────────────────┘  │
-│  ┌───────────────▼───────────────────┐  │
-│  │  Analysis Engine                  │  │
-│  │  KWIC · collocates · keyness ·    │  │
-│  │  n-grams · POS · sentiment        │  │
-│  └───────────────┬───────────────────┘  │
-│  ┌───────────────▼───────────────────┐  │
-│  │  Presentation & Export            │  │
-│  └───────────────────────────────────┘  │
-└─────────────────────────────────────────┘
-         No network. No server. No telemetry.
-```
-
-**Dependencies:** [`pdf.js`](https://mozilla.github.io/pdf.js/) (Apache-2.0) for PDF extraction, [`mammoth.js`](https://github.com/mwilliamson/mammoth.js) (BSD-2-Clause) for DOCX extraction. Both are bundled locally.
-
----
-
-## Repository structure
-
-```
-LinguaX-Arc/
-├── www/
-│   ├── index.html          Application source
-│   └── lib/
-│       ├── pdf.min.js
-│       ├── pdf.worker.min.js
-│       └── mammoth.browser.min.js
-├── CITATION.cff
-├── LICENSE
-└── README.md
-```
-
----
-
-## Citation
-
-If you use LinguaX Arc in published research, please cite it:
-
-```bibtex
-@software{tahir_linguax_arc_2026,
-  author    = {Tahir, Arslan},
-  title     = {LinguaX Arc: A Fully Offline Mobile Corpus Analysis Toolkit},
-  version   = {5.0},
-  year      = {2026},
-  publisher = {Zenodo},
-  doi       = {10.5281/zenodo.XXXXXXX},
-  url       = {https://github.com/dailwind/LinguaX-Arc}
-}
-```
-
-**APA:**
-Tahir, A. (2026). *LinguaX Arc: A fully offline mobile corpus analysis toolkit* (Version 5.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
-
----
-
-## Contributing
-
-Bug reports, feature requests, and validation studies are welcome. Please open an [issue](https://github.com/dailwind/LinguaX-Arc/issues) describing the problem, your device model, and your Android version.
-
----
-
-## Author
-
-**Arslan Tahir**
-PhD Scholar in English Linguistics, Emerson University Multan, Pakistan
-Founder, Dailwind Studio™ & the LinguaX Software Series
-
-Website: [dailwind.com](https://dailwind.com)
-Email: [arslan@dailwind.com](mailto:arslan@dailwind.com)
-ORCID: [0009-0007-7681-7972](https://orcid.org/0009-0007-7681-7972)
-
----
-
-## License
-
-Released under the [MIT License](LICENSE).
-
-Third-party components and their licenses are listed in [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
-
-© 2026 Dailwind Studio. LinguaX Arc and Dailwind Studio are trademarks of Arslan Tahir.
