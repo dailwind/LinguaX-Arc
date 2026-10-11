@@ -1,4 +1,4 @@
-# LinguaX Arc
+# LinguaX Arc: Corpus Toolkit
 
 [![DOI](https://zenodo.org/badge/1365721388.svg)](https://doi.org/10.5281/zenodo.22706552)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -7,9 +7,9 @@
 
 **A fully offline corpus analysis toolkit for Android.**
 
-LinguaX Arc brings the core methods of corpus linguistics — concordancing, collocation, keyness, and part-of-speech tagging — to a mobile device, with no internet connection, no account, and no server. Every calculation runs on the phone itself, so a corpus never leaves the researcher's device.
+LinguaX Arc: Corpus Toolkit brings the core methods of corpus linguistics — concordancing, collocation, keyness, and part-of-speech tagging — to a mobile device, with no internet connection, no account, and no server. Every calculation runs on the phone itself, so a corpus never leaves the researcher's device.
 
-A **Dailwind Studio™** project, part of the **LinguaX Software Series**.
+A **Dailwind Studios™** project, part of the **LinguaX Software Series LSS**.
 
 ---
 
@@ -61,7 +61,7 @@ Available on the Google Play Store under **Dailwind Studio**.
 
 ## Architecture
 
-LinguaX Arc is built as a [Capacitor](https://capacitorjs.com/) application wrapping a self-contained web layer:
+LinguaX Arc: Corpus Toolkit is built as a [Capacitor](https://capacitorjs.com/) application wrapping a self-contained web layer:
 
 ```
 ┌─────────────────────────────────────────┐
@@ -137,7 +137,7 @@ Bug reports, feature requests, and validation studies are welcome. Please open a
 
 **Arslan Tahir**
 PhD Scholar in English Linguistics, Emerson University Multan, Pakistan
-Founder, Dailwind Studio™ & the LinguaX Software Series
+Founder, Dailwind Studios™ & the LinguaX Software Series
 
 Website: [dailwind.com](https://dailwind.com)
 Email: [arslan@dailwind.com](mailto:arslan@dailwind.com)
