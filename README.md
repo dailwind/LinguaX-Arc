@@ -1,6 +1,6 @@
 # LinguaX Arc: Corpus Toolkit
 
-[![DOI](https://zenodo.org/badge/1365721388.svg)](https://doi.org/10.5281/zenodo.22706552)
+[![DOI](https://zenodo.org/badge/1365721388.svg)](https://doi.org/10.5281/zenodo.22706551)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Android%207.0%2B-green.svg)]()
 [![Version](https://img.shields.io/badge/version-6.0-orange.svg)](CHANGELOG.md)
@@ -146,13 +146,13 @@ If you use LinguaX Arc in published research, please cite it:
   version   = {6.0},
   year      = {2026},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.22706552},
+  doi       = {10.5281/zenodo.22706551},
   url       = {https://github.com/dailwind/LinguaX-Arc}
 }
 ```
 
 **APA:**
-Tahir, A. (2026). *LinguaX Arc: A fully offline mobile corpus analysis toolkit* (Version 6.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22706552
+Tahir, A. (2026). *LinguaX Arc: A fully offline mobile corpus analysis toolkit* (Version 6.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22706551
 
 ---
 
