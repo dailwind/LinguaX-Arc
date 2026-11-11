@@ -1,7 +1,7 @@
 Privacy Policy for LinguaX Arc: Corpus Toolkit
 Effective Date: October 11, 2026
 
-Developer / Publisher: Dailwind Studios
+Developer / Publisher: Dailwind App Studio™
 
 App Package Name: com.aistudio.linguaxarc.lhvqkp
 

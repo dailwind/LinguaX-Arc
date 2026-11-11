@@ -4,6 +4,8 @@ All notable changes to LinguaX Arc are documented here.
 
 ## [6.0.2] – 2026-11-11
 ### Changed
+- Brand renamed to **Dailwind App Studio™** across the app, README, licence and citation metadata.
+- CITATION.cff abstract (used by Zenodo) now lists the modules available in the app.
 - README and TECHNICAL_NOTES now list exactly the modules visible in the v6.0 interface (added Corpus Overview, Punctuation Profile, File View, Summarizer, History & Export).
 - Corpus Cleaner, File Merger and the readability panel are documented as present in the source but not yet exposed in the interface.
 

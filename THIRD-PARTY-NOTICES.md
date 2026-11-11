@@ -65,4 +65,4 @@ Used as the native Android application shell.
 
 ---
 
-© 2026 Dailwind Studio. LinguaX Arc is a product of Dailwind Studio™.
+© 2026 Dailwind App Studio™. LinguaX Arc is a product of Dailwind App Studio™.

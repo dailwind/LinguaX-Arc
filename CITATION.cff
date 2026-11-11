@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: Tahir
     given-names: Arslan
-    affiliation: "Dailwind Studios; Emerson University Multan, Pakistan"
+    affiliation: "Dailwind App Studio; Emerson University Multan, Pakistan"
     orcid: "https://orcid.org/0009-0007-7681-7972"
 version: "6.0.2"
 date-released: 2026-11-11
@@ -27,10 +27,12 @@ keywords:
   - low-resource research
 abstract: >-
   LinguaX Arc is a fully offline corpus analysis toolkit for Android. It
-  provides KWIC concordancing, concordance plots, collocation and cluster
-  analysis, n-grams, word lists, keyness analysis against a reference corpus,
-  rule-based word-class profiling, lexicon-based sentiment analysis, readability
-  and lexical diversity measures, and corpus cleaning utilities. All processing
-  runs on the device, requiring no internet connection and transmitting no
-  data, which makes it suitable for fieldwork, low-connectivity settings, and
-  sensitive corpora that cannot be uploaded to third-party servers.
+  provides KWIC concordancing, concordance plots, a file viewer, collocation
+  (MI, T-score, log-likelihood, Dice) and cluster analysis, n-grams, word lists,
+  keyness analysis against a reference corpus (log-likelihood, chi-square, Log
+  Ratio, %DIFF), a corpus overview with a rule-based word-class profile and a
+  punctuation profile, word clouds, extractive summarisation and lexicon-based
+  sentiment analysis. All processing runs on the device, requiring no internet
+  connection and transmitting no data, which makes it suitable for fieldwork,
+  low-connectivity settings, and sensitive corpora that cannot be uploaded to
+  third-party servers.

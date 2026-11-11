@@ -9,7 +9,7 @@
 
 LinguaX Arc brings the core methods of corpus linguistics (concordancing, collocation, keyness and word-class profiling) to a mobile device, with no internet connection, no account and no server. Every calculation runs on the phone itself, so a corpus never leaves the researcher's device.
 
-A **Dailwind Studios™** project, part of the **LinguaX Software Series**.
+A **Dailwind App Studio™** project, part of the **LinguaX Software Series**.
 
 ---
 
@@ -55,7 +55,7 @@ The statistical formulas used by each module are documented in [TECHNICAL_NOTES.
 ## Installation
 
 ### From Google Play
-Available on the Google Play Store, published by **Dailwind Studios**.
+Available on the Google Play Store, published by **Dailwind App Studio™**.
 
 ### From releases
 Download the latest `.apk` from the [Releases](https://github.com/dailwind/LinguaX-Arc/releases) page and install it on any Android 7.0+ device. You may need to allow installation from unknown sources.
@@ -166,7 +166,7 @@ Bug reports, feature requests and validation studies are welcome. See [CONTRIBUT
 
 **Arslan Tahir**
 PhD Scholar in English Linguistics, Emerson University Multan, Pakistan
-Founder, Dailwind Studios™ & the LinguaX Software Series
+Founder, Dailwind App Studio™ & the LinguaX Software Series
 
 Website: [dailwind.com](https://dailwind.com)
 Email: [arslan@dailwind.com](mailto:arslan@dailwind.com)
@@ -179,4 +179,4 @@ ORCID: [0009-0007-7681-7972](https://orcid.org/0009-0007-7681-7972)
 Released under the [MIT License](LICENSE).
 Third-party components and their licenses are listed in [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
 
-© 2026 Dailwind Studios. LinguaX Arc and Dailwind Studios are trademarks of Arslan Tahir.
+© 2026 Dailwind App Studio™. LinguaX Arc and Dailwind App Studio™ are trademarks of Arslan Tahir.
