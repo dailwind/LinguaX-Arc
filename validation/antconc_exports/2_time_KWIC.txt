@@ -1,0 +1,101 @@
+File	KPF	Left Context	Hit	Right Context
+austen-emma.txt	74	come--so very obliging of you."  Emma found it really 	time 	to be at home; the visit had already lasted 
+austen-persuasion.txt	74	desire. It was a great object with me at that 	time 	to be at sea; a very great object, I 
+austen-emma.txt	73	think, a very gentleman-like man."  Happily, it was now 	time 	to be gone.  They were off; and Emma could 
+austen-persuasion.txt	73	the concert being just opening, she must consent for a 	time 	to be happy in a humbler way.  The party 
+austen-persuasion.txt	73	in the course of the preceding month, there was no 	time 	to be lost in making every dependent arrangement.  Lady 
+austen-emma.txt	73	about his manners. It was an awkward ceremony at any 	time 	to be receiving wedding visits, and a man had 
+austen-persuasion.txt	73	accordingly had been ruined.  The husband had died just in 	time 	to be spared the full knowledge of it. They 
+austen-persuasion.txt	73	the new publications, and has a very large acquaintance, has 	time 	to be vexed.  As Mr Elliot became known to 
+austen-sense.txt	73	never spoke of going away without a sigh--declared his 	time 	to be wholly disengaged--even doubted to what place 
+austen-sense.txt	73	my own health, as I had felt even at the 	time 	to be wrong. Had I died,--it would have 
+austen-emma.txt	66	not go away without seeing you, but I have no 	time 	to spare, and therefore must now be gone directly.  
+austen-sense.txt	66	Pray be quick, sir,"--said Elinor, impatiently;-- "I have no 	time 	to spare."  He was sitting in an attitude of 
+austen-sense.txt	66	concluded that every thing had been expressly softened at the 	time, 	to spare her from an increase of unhappiness, suffering 
+austen-persuasion.txt	66	well the next day. It must be a work of 	time 	to ascertain that no injury had been done to 
+austen-persuasion.txt	66	did move quietly to the window.  She was just in 	time 	to ascertain that it really was Mr Elliot, which 
+austen-emma.txt	66	quite well.  Poor Perry is bilious, and he has not 	time 	to take care of himself--he tells me he 
+austen-emma.txt	66	take care of himself--he tells me he has not 	time 	to take care of himself--which is very sad--
+austen-emma.txt	65	letter this morning--we see him to-morrow by dinner-	time 	to a certainty-- he is at Oxford to-day, 
+austen-emma.txt	65	Harriet Smith, therefore, one whom she could summon at any 	time 	to a walk, would be a valuable addition to 
+austen-persuasion.txt	65	house when unemployed, chanced to be at liberty just in 	time 	to attend her. "And she," said Mrs Smith, "besides 
+austen-sense.txt	65	nor wrote. They were engaged about the end of that 	time 	to attend Lady Middleton to a party, from which 
+austen-sense.txt	65	could not resist.      I wish you may receive this in 	time 	to come here      to-night, but I will not 
+austen-sense.txt	65	and service, and how sorry they was they had not 	time 	to come on and see you, but they was 
+austen-sense.txt	65	no longer necessary to give up the whole of her 	time 	to her; and, contenting herself with visiting her once 
+austen-emma.txt	65	first exclamation, and all that he could say for some 	time.  	To her he looked for comfort; and her assurances 
+austen-sense.txt	65	the indulgence of such solitary rambles.  She returned just in 	time 	to join the others as they quitted the house, 
+austen-sense.txt	65	of Mrs. Jennings, left her own party for a short 	time, 	to join their's. Mrs. Jennings immediately whispered to 
+austen-sense.txt	65	into the hall, and reached the outward door just in 	time 	to receive and support her as she entered it.  
+austen-persuasion.txt	65	home; and her father and mother, who must return in 	time 	to receive their younger children for the Christmas holidays, 
+austen-emma.txt	65	hasty and imprudent attachment may arise-- but there is generally 	time 	to recover from it afterwards.  I would be understood 
+austen-emma.txt	65	eyes, and talking on with eagerness, that Emma might have 	time 	to recover-- "You may well be amazed.  But it 
+austen-sense.txt	65	money, and they keep their own coach.  I have not 	time 	to speak to Mrs. Jennings about it myself, but 
+austen-emma.txt	65	He thanked her with all his heart, and continued some 	time 	to speak with serious feeling of his gratitude and 
+austen-persuasion.txt	65	they were nearly opposite.  She looked at her however, from 	time 	to time, anxiously; and when the moment approached which 
+austen-emma.txt	65	had lived with them entirely, only visiting her grandmother from 	time 	to time.  The plan was that she should be 
+austen-emma.txt	64	hour.  She went on herself, to give that portion of 	time 	to an old servant who was married, and settled 
+austen-emma.txt	64	Concession must be out of the question; but it was 	time 	to appear to forget that they had ever quarrelled; 
+austen-emma.txt	64	a tooth amiss. Harriet really wished, and had wished some 	time, 	to consult a dentist. Mrs. John Knightley was delighted 
+austen-sense.txt	64	by what other people say of them, without giving oneself 	time 	to deliberate and judge."  "But I thought it was 
+austen-emma.txt	64	sent only a general direction, an order indefinite as to 	time, 	to depend upon contingencies and conveniences?"  He paused.  She 
+austen-emma.txt	64	between them, Emma; he said so expressly.  He had not 	time 	to enter into much explanation. He was here only 
+austen-sense.txt	64	CHAPTER 43   Marianne got up the next morning at her usual 	time; 	to every inquiry replied that she was better, and 
+austen-persuasion.txt	64	to be guests in the same inn at the same 	time; 	to give his own route, understand something of hers, 
+austen-emma.txt	64	as of foreseeing any that was doubtful, said, "It was 	time 	to go;" and the young man, though he might 
+austen-persuasion.txt	64	to me, compared with you;"  and she was in full 	time 	to hear her father say, "My dear madam, this 
+austen-emma.txt	64	convenience.  Mrs. Weston added, "that he could only allow himself 	time 	to hurry to Highbury, after breakfast, and take leave 
+austen-emma.txt	64	sister, and giving her all her attention.  She had not 	time 	to know how Mr. Elton took the reproof, so 
+austen-emma.txt	64	the first offer she receives? No--pray let her have 	time 	to look about her."  "I have always thought it 
+austen-emma.txt	64	they might now become friends again.  She thought it was 	time 	to make up.  Making-up indeed would not do.  _
+austen-emma.txt	64	to think of you four hours hence; and by this 	time 	to-morrow, perhaps, or a little later, I may 
+austen-emma.txt	64	as we may fairly suppose, he would not allow much 	time 	to pass before he spoke to the lady, and 
+austen-sense.txt	64	rise from the bed, and whom she reached just in 	time 	to prevent her from falling on the floor, faint 
+austen-emma.txt	64	attending to some one else--and the pause gave her 	time 	to reflect, "Now, how am I going to introduce 
+austen-persuasion.txt	64	add, that two hours will bring me over at any 	time, 	to save you the trouble of replying."  Sir Walter 
+austen-emma.txt	64	spoke to Mrs. Elton."  Miss Bates would hardly give Emma 	time 	to say how perfectly new this circumstance was to 
+austen-persuasion.txt	64	she saw that he was gone.  She was just in 	time 	to see him turn into the Concert Room.  He 
+austen-persuasion.txt	64	inconvenience, she must suffer none, but it occupied a little 	time 	to settle the point of civility between the other 
+austen-emma.txt	64	over, it would give me very great pleasure at any 	time 	to stand up with an old friend like Mrs. 
+austen-sense.txt	64	on Elinor's feelings especially, which required some trouble and 	time 	to subdue.  But as it was her determination to 
+austen-emma.txt	64	them again; Mr. Elton and his bride. There was hardly 	time 	to talk over the first letter from Enscombe before "
+austen-sense.txt	64	probable it was that she was writing for the last 	time 	to Willoughby.  Elinor paid her every quiet and unobtrusive 
+austen-emma.txt	64	own wish of seeing Ireland, Miss Fairfax prefers devoting the 	time 	to you and Mrs. Bates?"  "Yes--entirely her own 
+austen-emma.txt	74	which is saying a great deal at my mother's 	time 	of life--and it really is full two years, 
+austen-persuasion.txt	74	procuring a dispensation, there could be no difficulty at his 	time 	of life, and with his character. My only doubt 
+austen-persuasion.txt	74	but I can hardly suppose that, at Admiral Croft's 	time 	of life, and in his profession, he should not 
+austen-sense.txt	74	of four or five other girls of about the same 	time 	of life; and for two years I had every 
+austen-persuasion.txt	71	give me more delight than is often felt at my 	time 	of life!"  Anne was obliged to turn away, to 
+austen-sense.txt	71	for several weeks."  "I am sorry for that.  At her 	time 	of life, any thing of an illness destroys the 
+austen-persuasion.txt	71	has been neither ill health nor anxiety, it is a 	time 	of life at which scarcely any charm is lost.  
+austen-persuasion.txt	71	the only thoroughly natural, happy, and sufficient cure, at her 	time 	of life, had been possible to the nice tone 
+austen-sense.txt	71	with no traits at all unusual in his sex and 	time 	of life. He was nice in his eating, uncertain 
+austen-persuasion.txt	71	Indeed!  Then do tell me what he was at that 	time 	of life. I have a great curiosity to know 
+austen-sense.txt	71	on that point is unchanged, I presume?"  "Undoubtedly. At my 	time 	of life opinions are tolerably fixed. It is not 
+austen-persuasion.txt	71	it was perfectly natural that Mr Elliot, at a mature 	time 	of life, should feel it a most desirable object, 
+austen-persuasion.txt	71	think he must be rather a dressy man for his 	time 	of life. Such a number of looking-glasses! oh 
+austen-emma.txt	71	and abrupt; what will he be at Mr. Weston's 	time 	of life?"  "There is no saying, indeed," replied Harriet 
+austen-emma.txt	71	how very acceptable it must be, at Miss Taylor's 	time 	of life, to be settled in a home of 
+austen-persuasion.txt	71	and understanding might bear the investigation of his present keener 	time 	of life was another concern and rather a fearful 
+austen-persuasion.txt	71	card.  Morning visits are never fair by women at her 	time 	of life, who make themselves up so little. If 
+austen-sense.txt	71	her spirit was stubborn.  "His fortune too!--for at my 	time 	of life you know, everybody cares about THAT;--and 
+austen-sense.txt	60	Elinor, "probably looks much as it always does at this 	time 	of the year. The woods and walks thickly covered 
+austen-sense.txt	60	their determined resolution of not leaving their mother at that 	time 	of the year. Mrs. Jennings received the refusal with 
+austen-sense.txt	60	anxiety) "it cannot be expected to last long.  At this 	time 	of the year, and after such a series of 
+austen-emma.txt	58	did not disdain. It regarded a supper-room.  At the 	time 	of the ballroom's being built, suppers had not 
+austen-emma.txt	58	as they had always stood in her estimation, from the 	time 	of the latter's becoming known to her-- and 
+austen-sense.txt	58	the company it appeared rather a bold undertaking, considering the 	time 	of year, and that it had rained every day 
+austen-emma.txt	58	three months later would be a much better plan; better 	time 	of year; better weather; and that he would be 
+austen-emma.txt	58	people of Highbury and happiness.  Mr. Woodhouse was resigned.  The 	time 	of year lightened the evil to him.  May was 
+austen-sense.txt	58	What can you have to do in town at this 	time 	of year?"  "My own loss is great," be continued, "
+austen-emma.txt	58	indeed you ought to be particularly careful, especially at this 	time 	of year. The spring I always think requires more 
+austen-emma.txt	57	not told.  It was her own choice to give the 	time 	of their absence to Highbury; to spend, perhaps, her 
+austen-sense.txt	57	owners of Cleveland away, in about seven days from the 	time 	of their arrival. It gave her no surprise that 
+austen-emma.txt	57	wretched moment. She had never been quite well since the 	time 	of their daughter's marriage; and till she should 
+austen-emma.txt	57	Before Emma had forfeited her confidence, and about the third 	time 	of their meeting, she heard all Mrs. Elton's 
+austen-sense.txt	56	concerned, impatiently expected its opening. It was not the first 	time 	of her feeling the same kind of conviction; for, 
+austen-sense.txt	56	represented it, therefore, as a measure which would fix the 	time 	of her returning to that dear mother, whom she 
+austen-sense.txt	56	prepossessing. She came in with a smile, smiled all the 	time 	of her visit, except when she laughed, and smiled 
+austen-emma.txt	56	the principals were prepared for; they had calculated from the 	time 	of its being known at Randalls, how soon it 
+austen-emma.txt	56	of what she had said; and in the very last 	time 	of its meeting her eye, unadorned as it was 
+austen-sense.txt	56	marriage with Lucy was as firmly determined on, and the 	time 	of its taking place remained as absolutely uncertain, as 

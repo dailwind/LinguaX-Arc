@@ -1,0 +1,246 @@
+{
+ "linguax": {
+  "wordlist": {
+   "ac_types": 10307,
+   "lx_types": 11006,
+   "common": 10126,
+   "exact_pct": 92.8698400158009,
+   "pearson": 0.997805873564681,
+   "spearman": 0.9944688780293791,
+   "top100_overlap": 98,
+   "top1000_overlap": 978
+  },
+  "collocates": {
+   "ac_n": 201,
+   "lx_n": 194,
+   "common": 193,
+   "freq_exact_pct": 81.34715025906736,
+   "mi_pearson": 0.9963760176501438,
+   "mi_mae": 0.034202072538860095,
+   "mi_maxdiff": 0.43199999999999994,
+   "ll_spearman": 0.9767947491696509,
+   "ll_pearson": 0.9998720061520135,
+   "top10_ac": [
+    "at",
+    "some",
+    "same",
+    "for",
+    "life",
+    "the",
+    "this",
+    "just",
+    "year",
+    "short"
+   ],
+   "top10_lx": [
+    "at",
+    "some",
+    "same",
+    "for",
+    "life",
+    "the",
+    "this",
+    "just",
+    "year",
+    "short"
+   ]
+  },
+  "keywords": {
+   "ac_n": 6389,
+   "lx_n": 7096,
+   "common": 6260,
+   "freq_exact_pct": 88.9776357827476,
+   "ll_pearson": 0.9981653769267921,
+   "ll_spearman": 0.986817893130151,
+   "ll_mae": 0.8133876996805111,
+   "ll_max_absdiff": 187.29200000000003,
+   "top20_overlap": 19,
+   "top50_overlap": 48,
+   "top100_overlap": 95,
+   "top10_ac": [
+    "her",
+    "she",
+    "emma",
+    "mrs",
+    "elinor",
+    "be",
+    "harriet",
+    "very",
+    "mr",
+    "miss"
+   ],
+   "top10_lx": [
+    "her",
+    "she",
+    "mrs",
+    "emma",
+    "elinor",
+    "be",
+    "very",
+    "mr",
+    "miss",
+    "harriet"
+   ]
+  },
+  "ngram2": {
+   "ac_n": 11501,
+   "lx_n": 11242,
+   "common": 11112,
+   "exact_pct": 94.23146148308135,
+   "pearson": 0.9993849899273847,
+   "top50_overlap": 49
+  },
+  "ngram3": {
+   "ac_n": 5144,
+   "lx_n": 4971,
+   "common": 4934,
+   "exact_pct": 96.65585731657885,
+   "pearson": 0.9987832151412201,
+   "top50_overlap": 50
+  },
+  "kwic": [
+   [
+    "time",
+    668
+   ],
+   [
+    "love",
+    234
+   ],
+   [
+    "said",
+    1054
+   ],
+   [
+    "never",
+    701
+   ],
+   [
+    "house",
+    329
+   ]
+  ]
+ },
+ "linguax_tokctrl": {
+  "wordlist": {
+   "ac_types": 10307,
+   "lx_types": 10307,
+   "common": 10307,
+   "exact_pct": 100.0,
+   "pearson": 0.9999999999999992,
+   "spearman": 1.0,
+   "top100_overlap": 100,
+   "top1000_overlap": 1000
+  },
+  "collocates": {
+   "ac_n": 201,
+   "lx_n": 201,
+   "common": 201,
+   "freq_exact_pct": 100.0,
+   "mi_pearson": 1.0,
+   "mi_mae": 0.0,
+   "mi_maxdiff": 0.0,
+   "ll_spearman": 0.9999837444869797,
+   "ll_pearson": 0.9999877868863921,
+   "top10_ac": [
+    "at",
+    "some",
+    "same",
+    "for",
+    "life",
+    "the",
+    "this",
+    "just",
+    "year",
+    "short"
+   ],
+   "top10_lx": [
+    "at",
+    "some",
+    "same",
+    "for",
+    "life",
+    "the",
+    "this",
+    "just",
+    "year",
+    "short"
+   ]
+  },
+  "keywords": {
+   "ac_n": 6389,
+   "lx_n": 6389,
+   "common": 6389,
+   "freq_exact_pct": 100.0,
+   "ll_pearson": 0.9999896320435119,
+   "ll_spearman": 0.9999997357206333,
+   "ll_mae": 0.024855532947253116,
+   "ll_max_absdiff": 41.47699999999986,
+   "top20_overlap": 20,
+   "top50_overlap": 50,
+   "top100_overlap": 100,
+   "top10_ac": [
+    "her",
+    "she",
+    "emma",
+    "mrs",
+    "elinor",
+    "be",
+    "harriet",
+    "very",
+    "mr",
+    "miss"
+   ],
+   "top10_lx": [
+    "her",
+    "she",
+    "emma",
+    "mrs",
+    "elinor",
+    "be",
+    "harriet",
+    "very",
+    "mr",
+    "miss"
+   ]
+  },
+  "ngram2": {
+   "ac_n": 11501,
+   "lx_n": 11501,
+   "common": 11501,
+   "exact_pct": 100.0,
+   "pearson": 1.0,
+   "top50_overlap": 50
+  },
+  "ngram3": {
+   "ac_n": 5144,
+   "lx_n": 5144,
+   "common": 5144,
+   "exact_pct": 100.0,
+   "pearson": 1.0,
+   "top50_overlap": 50
+  },
+  "kwic": [
+   [
+    "time",
+    671
+   ],
+   [
+    "love",
+    236
+   ],
+   [
+    "said",
+    1054
+   ],
+   [
+    "never",
+    702
+   ],
+   [
+    "house",
+    350
+   ]
+  ]
+ }
+}

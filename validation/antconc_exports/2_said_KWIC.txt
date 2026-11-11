@@ -1,0 +1,101 @@
+File	KPF	Left Context	Hit	Right Context
+austen-emma.txt	150	s spectacles.  So very obliging of Mr. Frank Churchill! `Oh!' 	said 	he, `I do think I can fasten the rivet; 
+austen-sense.txt	150	and genius?"  Sir John was rather puzzled.  "Upon my soul," 	said 	he, "I do not know much about him as 
+austen-emma.txt	150	pretty well resigned.  "I am not fond of dinner-visiting," 	said 	he--"I never was. No more is Emma.  Late 
+austen-sense.txt	150	know," she continued-- "he says it is quite shocking."  "No," 	said 	he, "I never said any thing so irrational. Don'
+austen-emma.txt	150	I am no dancer."  "If Mrs. Gilbert wishes to dance," 	said 	he, "I shall have great pleasure, I am sure--
+austen-emma.txt	150	soon as my aunt gets well, I shall go abroad," 	said 	he. "I shall never be easy till I have 
+austen-emma.txt	150	and might be made unhappy about her sister."  "Be satisfied," 	said 	he, "I will not raise any outcry.  I will 
+austen-sense.txt	150	was there.  "Fanny is in her own room, I suppose," 	said 	he:--"I will go to her presently, for I 
+austen-emma.txt	149	ridiculous are most unfortunately blended in her."  "They are blended," 	said 	he, "I acknowledge; and, were she prosperous, I could 
+austen-sense.txt	149	however on their species of house.  "For my own part," 	said 	he, "I am excessively fond of a cottage; there 
+austen-emma.txt	149	warmly. He seems every thing the fondest parent could. . . . `Oh!' 	said 	he, `I can fasten the rivet.  I like a 
+austen-emma.txt	149	was spoken of.  "I think she must be here soon," 	said 	he. "I have a great curiosity to see Mrs. 
+austen-sense.txt	149	it.  His answer was not very encouraging.  "As to that," 	said 	he, "I must rub through the world as well 
+austen-emma.txt	148	at her brother-in-law's breaking out.  "Mr. Perry," 	said 	he, in a voice of very strong displeasure, "would 
+austen-emma.txt	148	up your horse at the Crown, and come in."  "Well," 	said 	he, in a deliberating manner, "for five minutes, perhaps."  "
+austen-sense.txt	148	blushing, gave new suspicions to Edward.  "And who is Willoughby?" 	said 	he, in a low voice, to Miss Dashwood, by 
+austen-sense.txt	148	and trades as Columella's."  "They will be brought up," 	said 	he, in a serious accent, "to be as unlike 
+austen-sense.txt	148	Miss Steele had in hearing it.  "His name is Ferrars," 	said 	he, in a very audible whisper; "but pray do 
+austen-emma.txt	144	a little time, consider, do not commit yourself."  "Thank you," 	said 	he, in an accent of deep mortification, and not 
+austen-emma.txt	144	happy countenance on seeing Emma again.  "This is a pleasure," 	said 	he, in rather a low voice, "coming at least 
+austen-emma.txt	144	triumph rather unfeelingly.  "I admired your resolution very much, sir," 	said 	he, "in venturing out in such weather, for of 
+austen-emma.txt	143	fearful of not being incommoded enough.  "What a precious deposit!" 	said 	he with a tender sigh, as he received it.  "
+austen-sense.txt	143	own conscience."  "Do not talk to me of my wife," 	said 	he with a heavy sigh.-- "She does not deserve 
+austen-sense.txt	143	them news of his wife.  "You have heard, I suppose," 	said 	he with great solemnity, as soon as he was 
+austen-sense.txt	143	passed between them was to this effect.  "I have heard," 	said 	he, with great compassion, "of the injustice your friend 
+austen-sense.txt	142	deep meditation, and seemed not to hear her.  "Your sister," 	said 	he, with abruptness, a moment afterwards--"is out of 
+austen-sense.txt	142	What is it, that you mean by it?"--  "I mean,"--	said 	he, with serious energy--"if I can, to make 
+austen-emma.txt	142	of her person.  "Elegant, agreeable manners, I was prepared for," 	said 	he; "but I confess that, considering every thing, I 
+austen-emma.txt	142	bring friends with me."  "I hope you will bring Elton," 	said 	he:  "but I will not trouble you to give 
+austen-emma.txt	142	conduct.  "I shall be very glad to look it over," 	said 	he; "but it seems long. I will take it 
+austen-sense.txt	142	days.  "I wished very much to call upon you yesterday," 	said 	he, "but it was impossible, for we were obliged 
+austen-emma.txt	141	heard before.  "I cannot rate her beauty as you do," 	said 	he; "but she is a pretty little creature, and 
+austen-emma.txt	142	remembrance of neglect in such a cause.  "My dear Emma," 	said 	he at last, with earnest kindness, "do you think 
+austen-persuasion.txt	142	the Admiral had it all his own way.  "Poor Frederick!" 	said 	he at last.  "Now he must begin all over 
+austen-sense.txt	142	his own sensibility.  "We may treat it as a joke," 	said 	he, at last, recovering from the affected laugh which 
+austen-emma.txt	141	to his father.  "I have made a most wretched discovery," 	said 	he, after a short pause.-- "I have been here 
+austen-sense.txt	141	to me?"  Elinor bowed her assent.  "I do not know," 	said 	he, after a pause of expectation on her side, 
+austen-emma.txt	141	returned to his reading with greater alacrity.  "He trifles here," 	said 	he, "as to the temptation.  He knows he is 
+austen-persuasion.txt	141	of a young man of one or two and twenty," 	said 	he, "as to what is necessary in manners to 
+austen-emma.txt	141	it, to play something more.  "If you are very kind," 	said 	he, "it will be one of the waltzes we 
+austen-emma.txt	141	taken the liberty of opening it.  "Read it, read it," 	said 	he, "it will give you pleasure; only a few 
+austen-sense.txt	140	his giving him the living of Delaford--"Which, at present," 	said 	he, "after thanks so ungraciously delivered as mine were 
+austen-sense.txt	140	him so lightly.  "I met Mrs. Jennings in Bond Street," 	said 	he, after the first salutation, "and she encouraged me 
+austen-emma.txt	140	end of our stock. `I am sure you must be,' 	said 	he, `and I will send you another supply; for 
+austen-persuasion.txt	140	as circumstances might require.  "I was six weeks with Edward," 	said 	he, "and saw him happy. I could have no 
+austen-persuasion.txt	140	and Elizabeth was disdainful, and Sir Walter severe.  "Westgate Buildings!" 	said 	he, "and who is Miss Anne Elliot to be 
+austen-sense.txt	140	for his admiration.  "These are done by my eldest sister," 	said 	he; "and you, as a man of taste, will, 
+austen-sense.txt	140	I shall have a charming account to carry to Fanny," 	said 	he, as he walked back with his sister. "Lady 
+austen-emma.txt	140	hurried on, and were speedily at Randalls.--"Well, my dear," 	said 	he, as they entered the room--"I have brought 
+austen-emma.txt	140	and congratulated.  "I shall soon bring him over to Hartfield," 	said 	he, at the conclusion.  Emma could imagine she saw 
+austen-persuasion.txt	140	which depends so entirely upon place."  "I love your indignation," 	said 	he; "it is very natural. But here you are 
+austen-emma.txt	140	indeed, that it could not be persevered in.  "Oh! no," 	said 	he; "it would be the extreme of imprudence. I 
+austen-emma.txt	140	must always arise from my being in the wrong."  "Yes," 	said 	he, smiling--"and reason good.  I was sixteen years 
+austen-persuasion.txt	140	I knew pretty well what she was before that day;" 	said 	he, smiling. "I had no more discoveries to make 
+austen-emma.txt	140	out of so few, in having your hair cut."  "No," 	said 	he, smiling, "that is no subject of regret at 
+austen-emma.txt	140	always thought me unfit for the office I held."  "Yes," 	said 	he, smiling.  "You are better placed _here_; very fit 
+austen-emma.txt	140	Perry had seen it."  Frank Churchill caught the name.  "Perry!" 	said 	he to Emma, and trying, as he spoke, to 
+austen-persuasion.txt	140	by Anne.  "You have not been long enough in Bath," 	said 	he, "to enjoy the evening parties of the place."  "
+austen-sense.txt	140	regret that they were only eight all together.  "My dear," 	said 	he to his lady, "it is very provoking that 
+austen-sense.txt	140	place as to see no defect in it?"  "I am," 	said 	he.  "To me it is faultless.  Nay, more, I 
+austen-emma.txt	140	be a blockhead who wanted more.  Mrs. Weston laughed, and 	said 	he did not know what he was talking about. 
+austen-sense.txt	140	bitterly; and your brother, he walked about the room, and 	said 	he did not know what to do.  Mrs. Dashwood 
+austen-sense.txt	139	were to come.  "I thought you were both in Devonshire," 	said 	he.  "Did you?" replied Elinor.  "When do you go 
+austen-emma.txt	139	the expression of his eyes overpowered her.  "My dearest Emma," 	said 	he, "for dearest you will always be, whatever the 
+austen-emma.txt	139	for her friend.  "How much I am obliged to you," 	said 	he, "for telling me to come to-day!-- If 
+austen-sense.txt	139	for both.  "You MUST drink tea with us to night," 	said 	he, "for we shall be quite alone--and tomorrow 
+austen-persuasion.txt	139	to feel himself, though alive, not at liberty.  "I found," 	said 	he, "that I was considered by Harville an engaged 
+austen-emma.txt	139	agree, to take leave.  "I shall hear about you all," 	said 	he; "that is my chief consolation. I shall hear 
+austen-sense.txt	139	any thing, after taking a chair.  "Mrs. Jennings told me," 	said 	he, "that you wished to speak with me, at 
+austen-emma.txt	139	I am glad you approve of what I have done," 	said 	he very comfortably. "But I thought you would.  Such 
+austen-emma.txt	139	not relate to one of that family?"  "Upon my honour," 	said 	he very seriously, "it does not.  It is not 
+austen-persuasion.txt	139	and either could not or would not answer fully.  "Yes," 	said 	he, "very true; here we separate, but Harville and 
+austen-emma.txt	139	of it.  This had happened the year before.  _Now_, he 	said, 	he was beginning to have no longer the same 
+austen-emma.txt	139	a way to carry conviction.-- Till yesterday, I know he 	said 	he was in the dark as to her plans. 
+austen-emma.txt	139	curious, just as such an Anne Cox should be."  "She 	said 	he was very agreeable the day he dined there.  
+austen-emma.txt	139	uncle with warm regard, was fond of talking of him--	said 	he would be the best man in the world 
+austen-emma.txt	139	Goddard? I assured him that I could not.  Then, he 	said, 	he would endeavour to see her in the course 
+austen-persuasion.txt	139	a capital gun he is just going to send off; 	said 	he would keep it unpacked to the last possible 
+austen-emma.txt	139	sure.  `Can I do any thing for you at Kingston?' 	said 	he; so I just mentioned. . . . Oh! Miss Woodhouse, must 
+austen-persuasion.txt	139	house.  "Nothing can be going on better than the child," 	said 	he; "so I told my father, just now, that 
+austen-sense.txt	138	four.  "It was a foolish, idle inclination on my side," 	said 	he, "the consequence of ignorance of the world-- and 
+austen-emma.txt	138	of the greatest alacrity and enjoyment.  "What an excellent device," 	said 	he, "the use of a sheepskin for carriages.  How 
+austen-emma.txt	138	made out quite enough for ten.  "We were too magnificent," 	said 	he.  "We allowed unnecessary room. Ten couple may stand 
+austen-sense.txt	138	speak at one without being heard at the other.  "Well," 	said 	he, "we have brought you some strangers. How do 
+austen-emma.txt	138	the good hands, I hope, may not be wanting."  "Come," 	said 	he, "you are anxious for a compliment, so I 
+austen-emma.txt	138	attachment.  "You have given Miss Smith all that she required," 	said 	he; "you have made her graceful and easy.  She 
+austen-persuasion.txt	137	him that she had not.  "It was a frightful hour," 	said 	he, "a frightful day!" and he passed his hand 
+austen-sense.txt	137	know who I mean."  "I am particularly sorry, ma'am," 	said 	he, addressing Lady Middleton, "that I should receive this 
+austen-emma.txt	137	I do not offer it for Miss Smith's collection," 	said 	he. "Being my friend's, I have no right 
+austen-sense.txt	137	his unfortunate friend.  "Your sister, I hope, cannot be offended," 	said 	he, "by the resemblance I have fancied between her 
+austen-sense.txt	137	any instance of a second attachment's being pardonable."  "This," 	said 	he, "cannot hold; but a change, a total change 
+austen-persuasion.txt	137	who would be happy be firm.  Here is a nut," 	said 	he, catching one down from an upper bough.  "to 
+austen-sense.txt	137	hope she is well."  "Whom do you mean, ma'am?" 	said 	he, colouring a little.  "Oh! you know who I 
+austen-emma.txt	137	countenance.  You are trying not to smile."  "I am afraid," 	said 	he, composing his features, "I am very much afraid, 
+austen-emma.txt	137	would be so very obliging as to take some, `Oh!' 	said 	he directly, `there is nothing in the way of 
+austen-sense.txt	137	of what civility demanded towards herself.  "Is your sister ill?" 	said 	he.  Elinor answered in some distress that she was, 
+austen-emma.txt	137	share of censure.  "They aimed at wounding more than Harriet," 	said 	he.  "Emma, why is it that they are your 
+austen-persuasion.txt	137	astonishing and felicitous intelligence of her engagement with Benwick.  "Here," 	said 	he, "ended the worst of my state; for now 
+austen-emma.txt	137	and fearful affection with his daughter.  "My poor dear Isabella," 	said 	he, fondly taking her hand, and interrupting, for a 
+austen-persuasion.txt	137	that is what I call good company."  "You are mistaken," 	said 	he gently, "that is not good company; that is 

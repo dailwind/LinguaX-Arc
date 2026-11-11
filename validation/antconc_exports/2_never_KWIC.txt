@@ -1,0 +1,101 @@
+File	KPF	Left Context	Hit	Right Context
+austen-emma.txt	46	must dance, they had better dance at Randalls.  He had 	never 	been in the room at the Crown in his 
+austen-persuasion.txt	46	unpleasant, having such connexions!  But, I assure you, I have 	never 	been in the house above twice in my life."  
+austen-emma.txt	45	Churchill, I must tell you my mother's spectacles have 	never 	been in fault since; the rivet never came out 
+austen-persuasion.txt	45	unknowingly, within twenty miles of each other.  Captain Harville had 	never 	been in good health since a severe wound which 
+austen-sense.txt	45	twice at Delaford for a few days, but it has 	never 	been in my power to return to Barton."  This, 
+austen-emma.txt	45	all their little party, except herself.--But her mind had 	never 	been in such perturbation; and it needed a very 
+austen-emma.txt	47	as she had wished for and ordered it, she had 	never 	been able to get any thing tolerable.  Here was 
+austen-emma.txt	47	speaking, a suspicion darted into my head, and I have 	never 	been able to get it out again.  The more 
+austen-emma.txt	47	by Mr. Weston than by herself--but even he had 	never 	been able to finish the subject better than by 
+austen-sense.txt	47	cautiousness of conduct in an affair respecting which she had 	never 	been able to inspire her with distrust; and she 
+austen-sense.txt	44	She returned it almost instantly, acknowledging the likeness.  "I have 	never 	been able," continued Lucy, "to give him my picture 
+austen-emma.txt	41	allowances.  In one point she was fully justified. She had 	never 	been admitted before to be seriously ill.  The event 
+austen-emma.txt	41	that they had never become intimate friends; that she had 	never 	been admitted into Miss Fairfax's confidence on this 
+austen-sense.txt	41	and as for the Miss Steeles, especially Lucy, they had 	never 	been so happy in their lives as this intelligence 
+austen-sense.txt	41	were in, as must be universally striking. Mrs. Dashwood had 	never 	been so much pleased with any young women in 
+austen-emma.txt	41	that it was never made before."  "Perhaps Miss Fairfax has 	never 	been staying here so long before."  "Or that he 
+austen-persuasion.txt	41	a total change of conversation, opinion, and idea. She had 	never 	been staying there before, without being struck by it, 
+austen-emma.txt	41	shall have no fears for you with him. We have 	never 	been there above once since the new approach was 
+austen-emma.txt	41	though the compliment was so little returned that he had 	never 	been there in his life.  His coming to visit 
+austen-sense.txt	40	her a source of immoveable disgust.  Mrs. John Dashwood had 	never 	been a favourite with any of her husband's 
+austen-sense.txt	40	acquaintance immediately, and she was very thankful that she had 	never 	been acquainted with him at all.  She wished with 
+austen-emma.txt	40	greater happiness than in any yet passed through.  He had 	never 	been an unhappy man; his own temper had secured 
+austen-emma.txt	40	I have some right to that knowledge; though I have 	never 	been at the place in my life.--She is 
+austen-emma.txt	40	on me, but he has not injured me.  I have 	never 	been attached to him.  And now I can tolerably 
+austen-sense.txt	40	creating any return. I wish--I heartily wish it had 	never 	been.  But I have injured more than herself; and 
+austen-emma.txt	40	a deep grey, with dark eye-lashes and eyebrows, had 	never 	been denied their praise; but the skin, which she 
+austen-sense.txt	40	s occasional mention of her conduct and opinions, we have 	never 	been disposed to think her amiable; and I am 
+austen-persuasion.txt	40	her husband; but Anne could collect that their income had 	never 	been equal to their style of living, and that 
+austen-sense.txt	40	knew or believed.  She acknowledged, therefore, that though she had 	never 	been informed by themselves of the terms on which 
+austen-emma.txt	40	really regarding him as she did with friendship, she had 	never 	been more sensible of Mr. Knightley's high superiority 
+austen-persuasion.txt	40	passage, and received his very polite excuses, while she had 	never 	been near him at all; no, that cousinly little 
+austen-sense.txt	40	often had to be careless of their meals, she had 	never 	been obliged to go without her dinner before.  When 
+austen-emma.txt	40	excuse for not hurrying on the wretched moment. She had 	never 	been quite well since the time of their daughter'
+austen-persuasion.txt	40	who would have difficulty in believing it; but I have 	never 	been satisfied. I have always wanted some other motive 
+austen-persuasion.txt	40	He persisted in having loved none but her.  She had 	never 	been supplanted. He never even believed himself to see 
+austen-emma.txt	40	it had even given the idea of another. Emma had 	never 	been to Box Hill; she wished to see what 
+austen-sense.txt	40	was quite a new idea to Mrs. Dashwood; she had 	never 	been used to find wit in the inattention of 
+austen-emma.txt	40	as I am going to read to you,) and has 	never 	been well since.  A long time, is not it, 
+austen-emma.txt	42	might stay very well."  "Ah! papa--that is what you 	never 	have been able to accomplish, and I do not 
+austen-emma.txt	42	and the greatest curiosity to visit it.  That he should 	never 	have been able to indulge so amiable a feeling 
+austen-emma.txt	42	love, indeed, it would be a different thing! but I 	never 	have been in love; it is not my way, 
+austen-sense.txt	42	if it had not happened very unluckily that we should 	never 	have been in the country together.  He is very 
+austen-emma.txt	41	as much reason to be ashamed of confessing that I 	never 	have been at all attached to the person we 
+austen-persuasion.txt	41	handsome, with well-bred, elegant manners, and her character might 	never 	have been penetrated by Mr Elliot, knowing her but 
+austen-persuasion.txt	41	But poor Mrs Clay who, with all her merits, can 	never 	have been reckoned tolerably pretty, I really think poor 
+austen-emma.txt	41	to her.  She was the instigator. Frank's mother would 	never 	have been slighted as she was but for her. 
+austen-sense.txt	41	as he has proved himself the contrary, Marianne would yet 	never 	have been so happy with HIM, as she will 
+austen-persuasion.txt	41	say, was so plain and so awkward, that she would 	never 	have been tolerated in Camden Place but for her 
+austen-emma.txt	34	been for the misery of her leaving Hartfield, I should 	never 	have thought of Miss Taylor but as the most 
+austen-emma.txt	34	into being very much attached to this man.  She might 	never 	have thought of him but for me; and certainly 
+austen-emma.txt	33	the mischief; with having suggested such feelings as might otherwise 	never 	have entered Harriet's imagination; for Harriet had acknowledged 
+austen-sense.txt	33	time secretly engaged to another person!--such a suspicion could 	never 	have entered her head!  If she suspected ANY prepossession 
+austen-sense.txt	33	replied Elinor, in a most painful perplexity, "that I should 	never 	have heard him even mention your name."  "No; considering 
+austen-emma.txt	33	presume to call myself an addition.  But perhaps he may 	never 	have heard of there being such a creature in 
+austen-emma.txt	33	s;--and even were this not the case, he would 	never 	have known Harriet at all but for her folly.  
+austen-sense.txt	33	favourite colour.  I am sure, for my part, I should 	never 	have known he DID like it better than any 
+austen-emma.txt	32	being ordered was absolutely unknown to Miss F--, who would 	never 	have allowed me to send it, had any choice 
+austen-emma.txt	32	marry, I do not know what is.  And I should 	never 	have expected you to be lending your sanction to 
+austen-sense.txt	32	declined her own, though at the same time she would 	never 	have forgiven them if they had not come!  "Mr. 
+austen-persuasion.txt	32	and directing with a self-possession and decision which could 	never 	have given the idea of her being younger than 
+austen-persuasion.txt	32	and all that had happened, or my seeing him could 	never 	have gone so entirely out of my head."    Chapter 23   
+austen-sense.txt	32	Mr. Pratt, I think--nay, I am sure, it would 	never 	have happened; for though I left Longstaple with what 
+austen-emma.txt	32	woman to feel in confessing exactly the reverse.-- But I 	never 	have."  He listened in perfect silence.  She wished him 
+austen-emma.txt	32	This charade!--If I had studied a twelvemonth, I could 	never 	have made any thing like it."  "I thought he 
+austen-sense.txt	32	of the kind will be done; for my mother will 	never 	have money enough to attempt it."  "I am heartily 
+austen-persuasion.txt	32	Prettier musings of high-wrought love and eternal constancy, could 	never 	have passed along the streets of Bath, than Anne 
+austen-emma.txt	32	been no friend to Harriet Smith, Emma.  Robert Martin would 	never 	have proceeded so far, if he had not felt 
+austen-sense.txt	32	your situation to me, and be assured that you shall 	never 	have reason to repent it. Your case is a 
+austen-persuasion.txt	36	Elliot is evidently a disingenuous, artificial, worldly man, who has 	never 	had any better principle to guide him than selfishness."  
+austen-emma.txt	36	recommended nourishing food; but every thing they could command (and 	never 	had any body such good neighbours) was distasteful.  Emma, 
+austen-emma.txt	36	be a life of misery.  What a blessing, that she 	never 	had any children! Poor little creatures, how unhappy she 
+austen-sense.txt	36	She was confined for some days to the house; but 	never 	had any confinement been less irksome.  Willoughby was a 
+austen-sense.txt	36	may be, you have no right to repeat them."  "I 	never 	had any conjectures about it," replied Margaret; "it was 
+austen-sense.txt	36	go when he left them--but still, go he must. 	Never 	had any week passed so quickly--he could hardly 
+austen-emma.txt	35	to her, to institute the comparison.--She saw that there 	never 	had been a time when she did not consider 
+austen-emma.txt	35	South End, a young woman hired for the time, who 	never 	had been able to understand what she meant by 
+austen-emma.txt	35	her; for since her refusal of the brother, the sisters 	never 	had been at Mrs. Goddard's; and a twelvemonth 
+austen-emma.txt	35	reflected more, she seemed but to feel it more.  She 	never 	had been so depressed.  Happily it was not necessary 
+austen-emma.txt	35	give the appearance of an approach to the house, which 	never 	had been there.  Disputable, however, as might be the 
+austen-emma.txt	35	mean of late.  Early, I know, you had none."  "I 	never 	had the smallest, I assure you."  "That appears quite 
+austen-persuasion.txt	35	so that I cannot get them into any order," she 	never 	had the smallest temptation to say, "Very true."  One 
+austen-emma.txt	34	sight caught her;--Mr. Knightley leading Harriet to the set!--	Never 	had she been more surprized, seldom more delighted, than 
+austen-emma.txt	34	could have been expressed--almost beyond what she could conceal. 	Never 	had she felt so agitated, mortified, grieved, at any 
+austen-persuasion.txt	34	always in vain:  Elizabeth would go her own way; and 	never 	had she pursued it in more decided opposition to 
+austen-persuasion.txt	34	was next to be sung.  Anne could not refuse; but 	never 	had she sacrificed to politeness with a more suffering 
+austen-emma.txt	34	resolved to be out of doors as soon as possible.  	Never 	had the exquisite sight, smell, sensation of nature, tranquil, 
+austen-emma.txt	34	encouraging you to give way to your own feelings?--I 	never 	had the slightest suspicion, till within the last hour, 
+austen-emma.txt	33	and tolerably in his usual tone, he said,  "I have 	never 	had a high opinion of Frank Churchill.--I can 
+austen-emma.txt	33	with me--No, I should not say quarrelled, for we 	never 	had a quarrel in our lives; but she was 
+austen-emma.txt	33	admiration for her will ever take me by surprize.--I 	never 	had a thought of her in that way, I 
+austen-emma.txt	32	was a done thing; Mr. Elton was to go, and 	never 	had his broad handsome face expressed more pleasure than 
+austen-emma.txt	32	broad handsome face expressed more pleasure than at this moment; 	never 	had his smile been stronger, nor his eyes more 
+austen-persuasion.txt	31	own side.  It had originated in misapprehension entirely.  He had 	never 	had an idea of throwing himself off; he had 
+austen-sense.txt	31	again?"  "I do not know." And thus ended their discourse.  	Never 	had Marianne been so unwilling to dance in her 
+austen-emma.txt	31	the autumn at South End instead of coming here.  I 	never 	had much opinion of the sea air."  "Mr. Wingfield 
+austen-emma.txt	31	to have Henry supplanted.-- Mr. Knightley marry!--No, I have 	never 	had such an idea, and I cannot adopt it 
+austen-persuasion.txt	31	that she would be the making of me; and I 	never 	had two days of foul weather all the time 
+austen-persuasion.txt	29	phoo!" cried the Admiral, "what stuff these young fellows talk! 	Never 	was a better sloop than the Asp in her 
+austen-sense.txt	29	back in it, but he did not look up;--he 	never 	was a gentleman much for talking."  Elinor's heart 
+austen-emma.txt	29	such very good people; and the Perrys--I suppose there 	never 	was a happier or a better couple than Mr. 

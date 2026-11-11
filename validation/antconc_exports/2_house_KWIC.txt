@@ -1,0 +1,101 @@
+File	KPF	Left Context	Hit	Right Context
+austen-emma.txt	48	was reckoned a particularly healthy spot: she had an ample 	house 	and garden, gave the children plenty of wholesome food, 
+austen-sense.txt	48	Barton, and to offer them every accommodation from his own 	house 	and garden in which theirs might at present be 
+austen-sense.txt	48	He earnestly pressed her, after giving the particulars of the 	house 	and garden, to come with her daughters to Barton 
+austen-sense.txt	48	Brandon had been first informed of their arrival at his 	house, 	and he had himself said something very droll on 
+austen-emma.txt	48	William Larkins," continued Mr. Elton, "as I got near the 	house, 	and he told me I should not find his 
+austen-emma.txt	48	found themselves, all at once, at the door of his 	house; 	and he was out before another syllable passed.--Emma 
+austen-sense.txt	48	And then to turn the discourse, she began admiring the 	house 	and the furniture.  This specimen of the Miss Steeles 
+austen-sense.txt	48	now settled at Barton with tolerable comfort to themselves.  The 	house 	and the garden, with all the objects surrounding them, 
+austen-sense.txt	48	night was cold and stormy.  The wind roared round the 	house, 	and the rain beat against the windows; but Elinor, 
+austen-persuasion.txt	47	to the Admiral, as a model of good breeding.  The 	house 	and grounds, and furniture, were approved, the Crofts were 
+austen-emma.txt	47	memory with more particular observation, more exact understanding of a 	house 	and grounds which must ever be so interesting to 
+austen-sense.txt	47	should be very welcome to bed and board at my 	house; 	and so I would tell him if I could 
+austen-sense.txt	47	that moment she heard a carriage driving up to the 	house; 	and so strong was the persuasion that she DID, 
+austen-sense.txt	47	scarcely ever without some friends staying with them in the 	house, 	and they kept more company of every kind than 
+austen-sense.txt	47	They had begun to fail him before he entered the 	house, 	and they were quite overcome by the captivating manners 
+austen-emma.txt	46	purpose; but it was at the other end of the 	house, 	and a long awkward passage must be gone through 
+austen-emma.txt	46	Well, Miss Woodhouse," said Harriet, when they had quitted the 	house, 	and after waiting in vain for her friend to 
+austen-sense.txt	46	only person who can have a right to shew that 	house; 	and as he went in an open carriage, it 
+austen-emma.txt	46	Mr. Elton, I must beg leave to stop at your 	house, 	and ask your housekeeper for a bit of ribband 
+austen-persuasion.txt	46	be taken to their house; all must go to their 	house; 	and await the surgeon's arrival there. They would 
+austen-emma.txt	46	exceed his alertness and attention in conducting them into his 	house 	and endeavouring to make every thing appear to advantage. 
+austen-sense.txt	46	greatly improved--he grew more and more partial to the 	house 	and environs--never spoke of going away without a 
+austen-sense.txt	46	No positive engagement indeed! after taking her all over Allenham 	House, 	and fixing on the very rooms they were to 
+austen-persuasion.txt	46	to see her, for the sake of shewing her the 	house 	and furniture, and met her with kindness.  Her making 
+austen-emma.txt	46	and her husband, and their little children, to fill the 	house, 	and give her pleasant society again.  Highbury, the large 
+austen-emma.txt	46	at Hartfield, and his good nature, from his fortune, his 	house, 	and his daughter, he could command the visits of 
+austen-emma.txt	46	Emma, by hand and word, when they returned into the 	house; 	and if he could have thought of Frank Churchill 
+austen-sense.txt	46	smart, their manners very civil, they were delighted with the 	house, 	and in raptures with the furniture, and they happened 
+austen-persuasion.txt	46	been full of it too, ever since I entered the 	house, 	and learnt the extension of your plan and all 
+austen-persuasion.txt	46	she left great happiness behind her when they quitted the 	house; 	and Louisa, by whom she found herself walking, burst 
+austen-sense.txt	46	There is not a stone laid of Fanny's green-	house, 	and nothing but the plan of the flower-garden 
+austen-emma.txt	46	they were accomplished.  He had made his fortune, bought his 	house, 	and obtained his wife; and was beginning a new 
+austen-emma.txt	46	since she was twelve, Emma has been mistress of the 	house 	and of you all.  In her mother she lost 
+austen-persuasion.txt	46	the Cottage were always later than those of the other 	house, 	and on the morrow the difference was so great 
+austen-persuasion.txt	46	removed from the partialities and injustice of her father's 	house, 	and settled so permanently near herself. But in this 
+austen-persuasion.txt	46	comprehending only two days, was spent entirely at the Mansion 	House; 	and she had the satisfaction of knowing herself extremely 
+austen-sense.txt	46	law and his wife that she was provided with a 	house, 	and should incommode them no longer than till every 
+austen-persuasion.txt	46	seemed to be," continued he; "asked more questions about the 	house, 	and terms, and taxes, than the Admiral himself, and 
+austen-sense.txt	46	woods and plantations.  You may see the end of the 	house.  	And there, beneath that farthest hill, which rises with 
+austen-persuasion.txt	46	with an evil eye on anyone intending to inhabit that 	house, 	and think them infinitely too well off in being 
+austen-sense.txt	46	to be tempted to eat by every delicacy in the 	house, 	and to be amused by the relation of all 
+austen-emma.txt	46	free observation of the entrance and ground-plot of the 	house--	and was hardly there, when Jane Fairfax appeared, coming 
+austen-emma.txt	46	a mile from them, and a Miss Taylor in the 	house; 	and with all her advantages, natural and domestic, she 
+austen-sense.txt	46	declared they should not stay a minute longer in the 	house, 	and your brother was forced to go down upon 
+austen-sense.txt	33	as remaining there till she could accommodate herself with a 	house 	in the neighbourhood, his invitation was accepted.  A continuance 
+austen-sense.txt	33	is Mrs. Smith your only friend?  Is Allenham the only 	house 	in the neighbourhood to which you will be welcome? 
+austen-persuasion.txt	32	out.  There had been three alternatives, London, Bath, or another 	house 	in the country.  All Anne's wishes had been 
+austen-sense.txt	32	He asked me to a party, a dance at his 	house 	in the evening.--Had he NOT told me as 
+austen-emma.txt	32	not bear the idea of her stirring out of her 	house 	in the fogs of December.  But no sooner was 
+austen-persuasion.txt	32	Mary, of a more trying nature: going to almost every 	house 	in the parish, as a sort of take-leave. 
+austen-persuasion.txt	32	her to be more known.  The undesirableness of any other 	house 	in the same neighbourhood for Sir Walter was certainly 
+austen-persuasion.txt	30	former hopes and fears, and spoke her satisfaction in the 	house 	in Camden Place, which had been taken, and her 
+austen-persuasion.txt	30	the Harvilles and Captain Benwick, than her own father's 	house 	in Camden Place, or her own sister's intimacy 
+austen-persuasion.txt	30	Rivers Street.    Chapter 15   Sir Walter had taken a very good 	house 	in Camden Place, a lofty dignified situation, such as 
+austen-emma.txt	27	her_ cow; and of their having a very handsome summer-	house 	in their garden, where some day next year they 
+austen-persuasion.txt	27	Anne's wishes had been for the latter. A small 	house 	in their own neighbourhood, where they might still have 
+austen-emma.txt	26	had otherwise a fancy for the place.  A ready-furnished 	house 	in a favourite spot was engaged, and much benefit 
+austen-sense.txt	26	would send for Mr. Donavan, and Mr. Donavan found the 	house 	in all this uproar. The carriage was at the 
+austen-sense.txt	26	the two Miss Steeles, lately arrived at their cousin's 	house 	in Bartlett's Buildings, Holburn, presented themselves again before 
+austen-sense.txt	26	Without shutting herself up from her family, or leaving the 	house 	in determined solitude to avoid them, or lying awake 
+austen-persuasion.txt	26	may be as comfortable on board, as in the best 	house 	in England. I believe I have lived as much 
+austen-emma.txt	26	which brought just employment enough.  He had still a small 	house 	in Highbury, where most of his leisure days were 
+austen-persuasion.txt	26	much to expect Sir Walter to descend into a small 	house 	in his own neighbourhood.  Anne herself would have found 
+austen-sense.txt	26	of the town, she had resided every winter in a 	house 	in one of the streets near Portman Square. Towards 
+austen-persuasion.txt	26	had never entered Kellynch since her quitting Lady Russell's 	house 	in September.  It had not been necessary, and the 
+austen-emma.txt	26	two had brought them a considerable increase of means-- the 	house 	in town had yielded greater profits, and fortune in 
+austen-sense.txt	26	when it came to the point, bid adieu to the 	house 	in which she had for the last time enjoyed 
+austen-sense.txt	26	disappointed if you do not.  I could get the nicest 	house 	in world for you, next door to ours, in 
+austen-emma.txt	22	however, in the first place at Mrs. Bates's; whose 	house 	was a little nearer Randalls than Ford's; and 
+austen-persuasion.txt	22	such long ones.  I am sure I had not.  The 	house 	was cleared yesterday, except of the little Harvilles; but 
+austen-sense.txt	22	valued friend; and to see Marianne settled at the mansion-	house 	was equally the wish of Edward and Elinor. They 
+austen-persuasion.txt	22	gifted with foresight; for the very first application for the 	house 	was from an Admiral Croft, with whom he shortly 
+austen-sense.txt	22	recommending it to their lasting approbation.  The situation of the 	house 	was good.  High hills rose immediately behind, and at 
+austen-sense.txt	22	to enjoy all the luxury of a good fire.  The 	house 	was handsome, and handsomely fitted up, and the young 
+austen-sense.txt	22	attendants. No one could dispute her right to come; the 	house 	was her husband's from the moment of his 
+austen-sense.txt	22	view at home by the projection of a hill.  The 	house 	was large and handsome; and the Middletons lived in 
+austen-emma.txt	22	avenues, which neither fashion nor extravagance had rooted up.--The 	house 	was larger than Hartfield, and totally unlike it, covering 
+austen-emma.txt	22	of Hartfield were small, but neat and pretty; and the 	house 	was modern and well-built. Mrs. Elton seemed most 
+austen-persuasion.txt	22	without children; the very state to be wished for.  A 	house 	was never taken good care of, Mr Shepherd observed, 
+austen-persuasion.txt	22	the visit was returned.  They came:  the master of the 	house 	was not at home, but the two sisters were 
+austen-emma.txt	22	the same system in another way.-- Mrs. Weston's poultry-	house 	was robbed one night of all her turkeys-- evidently 
+austen-sense.txt	22	THEN it was that he mentioned with regret, that the 	house 	was small and indifferent;--an evil which Elinor, as 
+austen-persuasion.txt	22	than mortification for her own.  The party at the Great 	House 	was sometimes increased by other company. The neighbourhood was 
+austen-emma.txt	22	of such near neighbourhood to many dear friends-- for the 	house 	was taken for May and June.  She was told 
+austen-persuasion.txt	22	though her being left to the solitary range of the 	house 	was the consequence.  She was the last, excepting the 
+austen-emma.txt	22	come; and her last pleasing duty, before she left the 	house, 	was to pay her respects to them as they 
+austen-persuasion.txt	22	Bath more than answered their expectations in every respect.  Their 	house 	was undoubtedly the best in Camden Place; their drawing-
+austen-sense.txt	22	her.  Colonel Brandon, who had a general invitation to the 	house, 	was with them almost every day; he came to 
+austen-emma.txt	20	bear all my odd humours, when she might have a 	house 	of her own?"  "A house of her own!--But 
+austen-emma.txt	20	when she might have a house of her own?"  "A 	house 	of her own!--But where is the advantage of 
+austen-emma.txt	20	of her own!--But where is the advantage of a 	house 	of her own? This is three times as large.--
+austen-sense.txt	18	their sister-in-law, who had preceded them to the 	house 	of her acquaintance, and was there hoping for some 
+austen-sense.txt	17	off, with her little boy and his nurse, for the 	house 	of a near relation of Mr. Palmer's, who 
+austen-sense.txt	17	cousin's maid betrayed us. I was banished to the 	house 	of a relation far distant, and she was allowed 
+austen-emma.txt	17	of the funeral for Yorkshire, was to be to the 	house 	of a very old friend in Windsor, to whom 
+austen-persuasion.txt	15	at Tattersall's, and twice in the lobby of the 	House 	of Commons."  His disapprobation was expressed, but apparently very 
+austen-persuasion.txt	15	in the line marked out for the heir of the 	house 	of Elliot, he had purchased independence by uniting himself 
+austen-emma.txt	15	that in living constantly with her father, and in no 	house 	of his own, there would be much, very much, 
+austen-sense.txt	15	but her own wishes.  Their opportunity of acquaintance in the 	house 	of Mr. Pratt was a foundation for the rest, 
+austen-persuasion.txt	15	pay for his convenience; knew what rent a ready-furnished 	house 	of that consequence might fetch; should not have been 

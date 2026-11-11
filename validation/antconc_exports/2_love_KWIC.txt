@@ -1,0 +1,101 @@
+File	KPF	Left Context	Hit	Right Context
+austen-emma.txt	61	great consolation that Mr. Elton should not be really in 	love 	with her, or so particularly amiable as to make 
+austen-emma.txt	61	to her friend, he had the misfortune to fall in 	love 	with _her_, or that he became conscious of a 
+austen-persuasion.txt	61	mentioned, were apparently admitted to the honour of being in 	love 	with him; and as for Henrietta and Louisa, they 
+austen-persuasion.txt	61	by chance into Mr Elliot's company, and fell in 	love 	with him; and not a difficulty or a scruple 
+austen-emma.txt	60	I have always had reason to believe as much in 	love 	with her as ever,) to get acquainted with her. 
+austen-emma.txt	60	no concealing it--exactly like the pretence of being in 	love 	with her, instead of Harriet; an inconstancy, if real, 
+austen-emma.txt	60	given him; the honour, if not of being really in 	love 	with her, of being at least very near it, 
+austen-emma.txt	60	rose again, and seemed quite embarrassed.-- He was more in 	love 	with her than Emma had supposed; and who can 
+austen-emma.txt	60	very much occupied by the idea of _not_ being in 	love 	with her, that I should not wonder if it 
+austen-emma.txt	60	her as you have done for me, except falling in 	love 	with her when she is thirteen."  "How often, when 
+austen-emma.txt	60	I can think of but one thing--Who is in 	love 	with her? Who makes you their confidant?"  Emma was 
+austen-emma.txt	60	Had you any idea," cried Harriet, "of his being in 	love 	with her?--You, perhaps, might.--You (blushing as she 
+austen-emma.txt	60	her in return for the great goodness of being in 	love 	with him; but though she had one sort of 
+austen-emma.txt	60	in secret--  "I am glad I have done being in 	love 	with him.  I should not like a man who 
+austen-emma.txt	60	made her think that she _must_ be a little in 	love 	with him, in spite of every previous determination against 
+austen-emma.txt	60	of a great Yorkshire family, and Miss Churchill fell in 	love 	with him, nobody was surprized, except her brother and 
+austen-persuasion.txt	60	business.  A very fine woman with a large fortune, in 	love 	with him!  Sir Walter seemed to admit it as 
+austen-emma.txt	60	situation and his civility.-- But he had fancied her in 	love 	with him; that evidently must have been his dependence; 
+austen-emma.txt	60	he tell that he might not be making me in 	love 	with him?-- very wrong, very wrong indeed."  "From something 
+austen-persuasion.txt	60	was not in love with either. They were more in 	love 	with him; yet there it was not love. It 
+austen-sense.txt	52	Dashwood.  Indeed a man could not very well be in 	love 	with either of her daughters, without extending the passion 
+austen-persuasion.txt	52	from memory and experience, that Captain Wentworth was not in 	love 	with either. They were more in love with him; 
+austen-emma.txt	52	valuable, amiable, pleasing young man undoubtedly, and very much in 	love 	with Harriet; but still, he cannot refuse an invitation, 
+austen-emma.txt	52	not:  and I was fully convinced of his being in 	love 	with Harriet. It was through a series of strange 
+austen-emma.txt	52	on that passage."  "That Mr. Elton should really be in 	love 	with me,--me, of all people, who did not 
+austen-emma.txt	52	as well take it into consideration now."  "Mr. Elton in 	love 	with me!--What an idea!"  "I do not say 
+austen-emma.txt	52	probabilities, Emma could only class it, as a proof of 	love, 	with Mr. Elton's seeing ready wit in her.  "
+austen-emma.txt	52	was it so much worse that Harriet should be in 	love 	with Mr. Knightley, than with Frank Churchill?  Why was 
+austen-emma.txt	51	a bad thing for her to be very much in 	love 	with a proper object.  I should like to see 
+austen-persuasion.txt	51	be properly tempted; actually looking round, ready to fall in 	love 	with all the speed which a clear head and 
+austen-persuasion.txt	51	Captain Benwick entitled by birth and situation to be in 	love 	with an Elliot, or from not wanting to believe 
+austen-emma.txt	51	play well:--a man, a very musical man, and in 	love 	with another woman--engaged to her--on the point 
+austen-sense.txt	51	compliment if he was, for he hardly ever falls in 	love 	with any body."  "Is Mr. Willoughby much known in 
+austen-sense.txt	51	a match, that they were over head and ears in 	love 	with each other from the first moment they met?  
+austen-persuasion.txt	51	thankful to ascertain even than Mr Elliot's being in 	love 	with Elizabeth, which was, her father's not being 
+austen-emma.txt	51	even the expectation, of Frank Churchill.--He had been in 	love 	with Emma, and jealous of Frank Churchill, from about 
+austen-persuasion.txt	51	of family, but well educated, accomplished, rich, and excessively in 	love 	with his friend. There had been the charm.  She 
+austen-emma.txt	51	Mr. Knightley used even to the woman he was in 	love 	with, how to be able to ask her to 
+austen-persuasion.txt	51	the reason? Neither more nor less than his being in 	love 	with Louisa, and not choosing to venture to Uppercross 
+austen-sense.txt	51	decisively to pronounce that Colonel Brandon was very much in 	love 	with Marianne Dashwood. She rather suspected it to be 
+austen-emma.txt	51	was so grateful to Mrs. Weston, and so much in 	love 	with Miss Fairfax, and she was so happy herself, 
+austen-emma.txt	51	to hope even of Harriet, that she could be in 	love 	with more than _three_ men in one year.    CHAPTER 
+austen-persuasion.txt	51	with Elizabeth, which was, her father's not being in 	love 	with Mrs Clay; and she was very far from 
+austen-persuasion.txt	51	fever of admiration; but it might, probably must, end in 	love 	with some.  Charles Hayter seemed aware of being slighted, 
+austen-emma.txt	51	ear, when you imagined a certain friend of ours in 	love 	with the lady."  "True.  But as I have always 
+austen-sense.txt	51	in friendship, without any other attraction; but their being in 	love 	with two sisters, and two sisters fond of each 
+austen-emma.txt	51	than they are generally supposed; till they do fall in 	love 	with well-informed minds instead of handsome faces, a 
+austen-emma.txt	51	by dint of fancying so many errors, have been in 	love 	with you ever since you were thirteen at least."  "
+austen-sense.txt	51	so grave and so dull. Mamma says HE was in 	love 	with your sister too.-- I assure you it was 
+austen-emma.txt	22	was her consoling reflection; "any thing interests between those who 	love; 	and any thing will serve as introduction to what 
+austen-persuasion.txt	22	off they ran, quite as full of glee as of 	love, 	and apparently more full of Captain Wentworth than of 
+austen-sense.txt	22	in the world to do, but to fancy myself in 	love; 	and as my mother did not make my home 
+austen-sense.txt	22	misery, from a woman whom he had long ceased to 	love;-- 	and elevated at once to that security with another, 
+austen-sense.txt	22	friend of mine; for those who will accept of my 	love 	and esteem, must submit to my open commendation."  The 
+austen-persuasion.txt	22	men, than their final separation.  Prettier musings of high-wrought 	love 	and eternal constancy, could never have passed along the 
+austen-persuasion.txt	22	really an instance of gross inattention.  Charles joins me in 	love, 	and everything proper.  Yours affectionately,    "Mary M---.  "I am 
+austen-sense.txt	22	she added, with revived security of Edward's honour and 	love, 	and her companion's falsehood--"Engaged to Mr. Edward 
+austen-emma.txt	22	was possible. She could not respect his eye, but his 	love 	and his complaisance were unexceptionable.  The sitting was altogether 
+austen-emma.txt	22	a proper object.  I should like to see Emma in 	love, 	and in some doubt of a return; it would 
+austen-sense.txt	22	while enjoying so unfair a division of his mother's 	love 	and liberality, to the prejudice of his banished brother, 
+austen-emma.txt	22	seems to have done his business.  He is desperately in 	love 	and means to marry her."  "He is very obliging," 
+austen-persuasion.txt	22	any representations from one who had almost a mother's 	love, 	and mother's rights, it would be prevented.  Captain 
+austen-emma.txt	22	farther requisite.--Harriet rational, Frank Churchill not too much in 	love, 	and Mr. Knightley not wanting to quarrel with her, 
+austen-sense.txt	22	to the man whom we have all such reason to 	love, 	and no reason in the world to think ill 
+austen-emma.txt	22	of those, who, having once begun, would be always in 	love.  	And now, poor girl! she was considerably worse from 
+austen-sense.txt	22	Middletons, he has been long and intimately known; they equally 	love 	and respect him; and even my own knowledge of 
+austen-sense.txt	22	must divide her for ever from the object of her 	love, 	and that Marianne was internally dwelling on the perfections 
+austen-emma.txt	22	him; but flattering himself that his ardent attachment and unequalled 	love 	and unexampled passion could not fail of having some 
+austen-emma.txt	22	But I could not reason so to a man in 	love, 	and was willing to trust to there being no 
+austen-sense.txt	17	her?"  "No, I cannot think that.  He must and does 	love 	her I am sure."  "But with a strange kind 
+austen-sense.txt	17	My brother did not deserve her; he did not even 	love 	her. I had hoped that her regard for me 
+austen-persuasion.txt	16	it been the effect of gratitude, had he learnt to 	love 	her, because he believed her to be preferring him, 
+austen-sense.txt	16	however, with a kindness of heart which made Elinor really 	love 	her, declared her resolution of not stirring from Cleveland 
+austen-emma.txt	16	had always liked Robert Martin; and that his continuing to 	love 	her had been irresistible.--Beyond this, it must ever 
+austen-emma.txt	16	nothing in comparison of Enscombe: she did not cease to 	love 	her husband, but she wanted at once to be 
+austen-emma.txt	16	Emma continued to entertain no doubt of her being in 	love.  	Her ideas only varied as to the how much.  
+austen-persuasion.txt	16	indeed, had scarcely any influence with Elizabeth, and seemed to 	love 	her, rather because she would love her, than because 
+austen-emma.txt	16	having their opinions with me."  "I know that you all 	love 	her really too well to be unjust or unkind; 
+austen-persuasion.txt	16	up, had ceased to love, had found he did not 	love 	her. She could not endure the idea of treachery 
+austen-persuasion.txt	16	Elizabeth, and seemed to love her, rather because she would 	love 	her, than because Elizabeth deserved it.  She had never 
+austen-persuasion.txt	16	both.  Indeed, Mrs Harville and I quite agree that we 	love 	her the better for having nursed her.  Charles wonders 
+austen-persuasion.txt	16	could not contemplate the change as implying less.  He must 	love 	her.  These were thoughts, with their attendant visions, which 
+austen-sense.txt	16	indeed," said Miss Steele-- "Dear little soul, how I do 	love 	her!"  "You are very kind," said Lady Middleton to 
+austen-sense.txt	15	a young man, be who he will, comes and makes 	love 	to a pretty girl, and promises marriage, he has 
+austen-sense.txt	15	you that I had not forgot our old disputes."  "I 	love 	to be reminded of the past, Edward--whether it 
+austen-sense.txt	15	myself in the most satisfactory way;--but you, Elinor, who 	love 	to doubt where you can--it will not satisfy 
+austen-emma.txt	15	satisfy them."  "Yes, very true.  How nicely you talk; I 	love 	to hear you. You understand every thing.  You and 
+austen-emma.txt	15	seized--her attention demanded, and Mr. Elton actually making violent 	love 	to her:  availing himself of the precious opportunity, declaring 
+austen-emma.txt	15	person," he replied. "I think her all you describe.  I 	love 	to look at her; and I will add this 
+austen-sense.txt	15	for a man of thirty-five anything near enough to 	love, 	to make him a desirable companion to her. But 
+austen-sense.txt	15	the dear children, when you      chance to see them, and 	love 	to Miss Marianne,                                        "I am, &c."  As soon as 
+austen-sense.txt	15	the past, Edward--whether it be melancholy or gay, I 	love 	to recall it--and you will never offend me 
+austen-sense.txt	15	so natural in Lady Middleton; and for my part, I 	love 	to see children full of life and spirits; I 
+austen-sense.txt	15	joyful.  He had more than the ordinary triumph of accepted 	love 	to swell his heart, and raise his spirits.  He 
+austen-emma.txt	15	I left her dancing with Mr. George Otway; she will 	love 	to tell you all about it herself to-morrow: 
+austen-sense.txt	15	anything; and they were neither of them quite enough in 	love 	to think that three hundred and fifty pounds a-
+austen-sense.txt	13	words, which conveyed to Elinor a direct avowal of his 	love 	for her sister, affected her very much. She was 
+austen-sense.txt	13	regrets would arise;--and her joy, though sincere as her 	love 	for her sister, was of a kind to give 
+austen-sense.txt	13	from our own expenses."  "I believe you are right, my 	love; 	it will be better that there should by no 
+austen-sense.txt	13	happy."  "Oh! Mamma, how shall we do without her?"  "My 	love, 	it will be scarcely a separation. We shall live 
