@@ -58,7 +58,7 @@ Significance labels use G² critical values for 1 degree of freedom: 3.84 (p < 0
 - KWIC lines show each hit with a user-defined left and right context. Search supports plain text, wildcards (`*`) and regular expressions.
 - The concordance plot marks the token position of each hit within each file as a percentage of file length, and reports hits per file and hits per 1,000 tokens.
 
-## 7. Readability and lexical diversity
+## 7. Readability and lexical diversity (in source, not yet in the v6.0 interface)
 
 | Measure | Formula |
 |---|---|
@@ -83,15 +83,23 @@ Each token is assigned to one of eight coarse classes (Nouns, Verbs, Adjectives,
 
 This is a context-free, rule-based approximation for profiling a corpus. It does not disambiguate words by context (for example *record* as noun or verb), and it does not lemmatise.
 
-## 9. Sentiment and tone
+## 9. Corpus overview and punctuation profile
+
+The Corpus view reports, per file and in total: tokens (as defined in §1), sentence units (runs of `.`, `!` or `?`), punctuation marks (period, comma, question mark, exclamation, semicolon, colon, quotes, parentheses, dashes) and word types (distinct lower-cased tokens). It also shows the word-class histogram (§8) and a punctuation-frequency chart.
+
+## 10. Summarizer
+
+Centroid-based extractive summarisation. Each sentence is represented as a TF-IDF vector (IDF = 1 + ln(N / df), where N is the number of sentences and df the number of sentences containing the word). A document centroid is built from the 15 terms with the highest document-wide weight, and each sentence is scored by the cosine similarity between its vector and the centroid. The highest-scoring sentences form the summary.
+
+## 11. Sentiment and tone
 
 Sentiment is lexicon-based. Each word found in a built-in English valence lexicon contributes a score between −4.0 and +4.0. Document and segment scores are aggregated from these word scores, and a separate list flags threat or violence vocabulary. The lexicon is English-only.
 
-## 10. Corpus cleaner
+## 12. Corpus cleaner (in source, not yet in the v6.0 interface)
 
 Optional steps, applied in order: lower-casing; URL removal; emoji removal (Unicode ranges U+1F300–U+1FAFF and U+2600–U+27BF, plus variation selectors and zero-width joiners); digit removal; punctuation removal; stopword removal (user-editable list); keeping alphabetic tokens only; whitespace normalisation.
 
-## 11. Privacy and networking
+## 13. Privacy and networking
 
 The application makes no network requests during analysis. Files are processed in memory and saved only to app-local storage on the device. The only outbound actions are links the user taps explicitly (for example the website, Zenodo or the Play Store page).
 

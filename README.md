@@ -29,23 +29,24 @@ LinguaX Arc addresses three specific gaps:
 
 | Module | Description |
 |---|---|
+| **Corpus Overview** | Tokens, sentences, punctuation marks and word types per file and for the whole corpus |
+| **Word-Class Profile** | Lightweight rule-based part-of-speech histogram (8 coarse word classes) |
+| **Punctuation Profile** | Frequency of each punctuation type across the corpus |
 | **KWIC Concordance** | Keyword-in-context search with wildcards, regex, case sensitivity and sorting |
 | **Concordance Plot** | Visual dispersion of a search term across corpus files |
-| **Collocates** | Window-based collocation with MI, T-score, Log-Likelihood and Dice |
+| **File View** | Read any corpus file with search hits highlighted |
 | **Clusters** | Recurrent multi-word units around a node word |
 | **N-Grams** | Contiguous word sequences with frequency ranking |
+| **Collocates** | Window-based collocation with MI, T-score, Log-Likelihood and Dice |
 | **Word List** | Frequency list with normalised frequency and range |
-| **Keyness Analysis** | Keywords against a reference corpus: Log-Likelihood (G²), Chi-square, Log Ratio, % Difference |
-| **Word-Class Profiler** | Lightweight rule-based part-of-speech profile (8 coarse word classes) |
-| **Sentiment & Tone Analyzer** | Lexicon-based valence scoring (−4 to +4) at document and segment level |
+| **Keyness** | Keywords against a reference corpus: Log-Likelihood (G²), Chi-square, Log Ratio, % Difference |
 | **Word Cloud** | Frequency-weighted visualisation |
-| **Readability & TTR** | Flesch Reading Ease, Flesch–Kincaid Grade, type/token statistics |
-| **Corpus Cleaner** | Normalisation, noise removal and stopword handling |
-| **File Merger** | Combine multiple files into a single corpus unit |
-| **Workspace & History** | Saved sessions and analysis history |
+| **Summarizer** | Extractive summary (TF-IDF centroid, cosine similarity) |
+| **Sentiment & Tone** | Lexicon-based valence scoring (−4 to +4) at document and segment level |
+| **History & Export** | Log of past analyses; results exported as CSV, PDF, Word or text |
 
 **Supported input:** `.txt`, `.pdf`, `.docx`
-**Export:** CSV, images and reports can be saved and shared from within the app.
+**Export:** CSV, PDF, Word (.doc), text and images can be saved and shared from within the app.
 
 The statistical formulas used by each module are documented in [TECHNICAL_NOTES.md](TECHNICAL_NOTES.md).
 
@@ -129,6 +130,7 @@ LinguaX-Arc/
 
 - The word-class profiler is rule-based (closed-class word lists plus suffix rules) and gives an approximate profile. It is not a statistical POS tagger and does not lemmatise.
 - The sentiment lexicon is English-only.
+- The source code also contains a text cleaner, a file merger and a readability / lexical-diversity panel (Flesch, STTR, hapax counts). These are not yet exposed in the v6.0 interface and are planned for a future release.
 - The tokeniser recognises Latin and Arabic-script letters. Urdu text is tokenised, but language-specific tools (stopwords, word classes, sentiment) are English-only for now.
 
 ---
